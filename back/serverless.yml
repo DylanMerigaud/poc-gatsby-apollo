@@ -22,7 +22,3 @@ functions:
     events:
       - http: ANY /
       - http: 'ANY {proxy+}'
-  graphql:
-    handler: handler.graphql
-    events:
-      - http: ANY /graphql
