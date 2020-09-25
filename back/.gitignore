@@ -3,3 +3,6 @@ dist/
 src/generated/
 *.env*
 prisma/dev.db
+jspm_packages
+.serverless
+.webpack
